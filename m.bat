@@ -1,0 +1,3 @@
+:: call more pager
+@more %*
+
