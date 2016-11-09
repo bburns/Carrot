@@ -1,2 +1,2 @@
-:: bring up system properties dialog to edit path - click on envars
+:: bring up system properties dialog - click on envars to edit path
 SystemPropertiesAdvanced.exe
