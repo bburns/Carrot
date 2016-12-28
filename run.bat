@@ -10,8 +10,9 @@ if "%1" == "" (
  
 ) else (
 
+  rem remember this program name in an environment variable
   set LastPythonProgram=%1
-  @python %1.py
+  @python %1.py %*
   
 )
 
